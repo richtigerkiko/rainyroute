@@ -1,0 +1,6 @@
+[submodule "rainyroute-api-dotnet"]
+	path = rainyroute-api-dotnet
+	url = https://github.com/richtigerkiko/rainyroute-api-dotnet.git
+[submodule "rainyroute-frontend-vuejs"]
+	path = rainyroute-frontend-vuejs
+	url = https://github.com/richtigerkiko/rainyroute-frontend-vuejs.git
