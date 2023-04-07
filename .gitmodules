@@ -4,3 +4,6 @@
 [submodule "rainyroute-frontend-vuejs"]
 	path = rainyroute-frontend-vuejs
 	url = https://github.com/richtigerkiko/rainyroute-frontend-vuejs.git
+[submodule "rainyroute-api-python"]
+	path = rainyroute-api-python
+	url = https://github.com/richtigerkiko/rainyroute-api-python.git
